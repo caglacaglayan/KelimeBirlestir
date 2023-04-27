@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-90.0" y="-14.5">netrox.Main</node>
+    <node x="-80.5" y="225.5">netrox.DatabaseConnection</node>
+    <node x="-92.0" y="123.0">netrox.PersonBean</node>
+    <node x="-75.5" y="65.5">netrox.Affixes</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="15.5" y="130.0" />
+  <SelectedNodes>
+    <node>netrox.PersonBean</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
